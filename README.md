@@ -2,6 +2,9 @@
 
 A fun and challenging web-based game where you try to catch flying insects before time runs out! 🕹️
 
+## Live Demo 🌐
+Play the game online: [https://iam269.github.io/Catch-The-Insect/](https://iam269.github.io/Catch-The-Insect/)
+
 ## How to Play 🎮
 1. Click "Play Game" to start.
 2. Choose your favorite insect to hunt.
